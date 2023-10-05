@@ -116,6 +116,7 @@ header {
     padding: 4px 8px;
     text-align: center;
     font-size: 14px;
+    max-width: 200px;
 }
 
 .container-4 img {
